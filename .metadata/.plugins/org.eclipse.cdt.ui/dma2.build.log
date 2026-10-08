@@ -1,0 +1,10 @@
+16:24:09 **** Incremental Build of configuration Debug for project dma2 ****
+make -j12 all 
+arm-none-eabi-size  dma2.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7280	     20	   2156	   9456	   24f0	dma2.elf
+Finished building: default.size.stdout
+ 
+
+16:24:09 Build Finished. 0 errors, 0 warnings. (took 67ms)
+

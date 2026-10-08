@@ -1,0 +1,10 @@
+16:16:44 **** Build of configuration Debug for project project_dma ****
+make -j12 all 
+arm-none-eabi-size  project_dma.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7600	     20	   1956	   9576	   2568	project_dma.elf
+Finished building: default.size.stdout
+ 
+
+16:16:44 Build Finished. 0 errors, 0 warnings. (took 66ms)
+
